@@ -49,7 +49,7 @@
 ## Problem 1 ##
 #Please write a script that: 
 # - Asks for the user's name and then prints it twice, on two consecutive lines.
-name= input("Greetings, traveler. What is thy name?")
+name= input("Greetings, traveler. What is thy name? ")
 print(name)
 print(name)
 
@@ -61,7 +61,7 @@ print(name)
 # - Asks for the user's name
 # - Prints it out twice on a single line so that there is an exclamation mark at the beginning of the line, 
 # - another between the two names and a third one at the end of the line.
-name= input("Hello, what is your name?")
+name= input("Hello, what is your name? ")
 print("!" + name + "!" + name + "!")
 
 ## Problem 3 ##
@@ -110,5 +110,5 @@ name = input(" Tell me the name of your main character? ")
 year = input(" What year is it? ")
 
 print( "In the year " +year+ ", Princess " + name + " was chased out of her palace on her 16th birthday by her childhood friend.")
-print (name + " grew up sheltered with a pacifist as her father and king. She had no idea how the world truly was and wasn't allowed to wield any weapons.")
+print (name + " grew up sheltered with a pacifist as her father and king. She had no idea how the world truly is and wasn't allowed to wield any weapons.")
 print ("But in order to survive " + name + " has to learn how to fight in order to survive. With only her other childhood friend's help can she take back the throne and get revenge?")
