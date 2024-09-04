@@ -11,4 +11,4 @@ email=input("Let me send you spam ")
 nickname=input("What do your friends call you? ")
 
 print("Hey " + name + ", or should I say " + nickname + ".")
-print("I am going to send you a bunch of span at " +email)
+print("I am going to send you a bunch of spam at " +email)
